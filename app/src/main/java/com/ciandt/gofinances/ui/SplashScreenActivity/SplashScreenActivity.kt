@@ -1,4 +1,4 @@
-package com.ciandt.gofinances.ui
+package com.ciandt.gofinances.ui.SplashScreenActivity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
