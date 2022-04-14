@@ -10,5 +10,6 @@
     <color name="Title">#363F5F</color>
     <color name="Text">#969CB2</color>
     <color name="Background">#F0F2F5</color>
+    <color name="Black">#000</color>
 
 </resources>
