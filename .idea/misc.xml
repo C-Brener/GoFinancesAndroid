@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/drawable/ic_rectangle_background.xml" value="0.1" />
-        <entry key="app/src/main/res/font/poppins.xml" value="0.16018518518518518" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10625" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/go_finances.xml" value="0.1835" />
+        <entry key="app/src/main/res/drawable/go_financesXML.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/go_finances_ml.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable/ic_group_39.xml" value="0.1835" />
+        <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.1835" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.24010416666666667" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.24010416666666667" />
         <entry key="app/src/main/res/layout/resume_card.xml" value="0.1" />
       </map>
     </option>
