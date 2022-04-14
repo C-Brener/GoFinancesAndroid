@@ -1,4 +1,4 @@
-package com.ciandt.gofinances.ui
+package com.ciandt.gofinances.ui.LoginActivity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -3,4 +3,5 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="none">Image Background</string>
     <string name="logon_image">User Image</string>
+    <string name="loginbackground">LoginBackground</string>
 </resources>
