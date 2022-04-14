@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="Black">#000</color>
     <color name="Blue">#5636D3</color>
     <color name="Orange">#FF872C</color>
@@ -9,4 +10,5 @@
     <color name="Title">#363F5F</color>
     <color name="Text">#969CB2</color>
     <color name="Background">#F0F2F5</color>
+
 </resources>
